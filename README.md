@@ -1,10 +1,9 @@
-### Hi there 👋
-
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
+### Hello there, fellow Engineers!! 👋
+-----------------------------------------------------------------------
+I'm Srujan
+-----------------------------------------------------------------------
+Machine Learning | Industrial Engineer | Data Science | Manufacturing
+Texas A&M University Student. :man_technologist:
 
 <!--
 **srujanreddyj/srujanreddyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
