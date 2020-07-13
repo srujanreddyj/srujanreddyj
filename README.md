@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
 <!--
 **srujanreddyj/srujanreddyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
