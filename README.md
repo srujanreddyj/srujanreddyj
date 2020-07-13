@@ -12,7 +12,8 @@ I am learning all about machine learning, so I can build machines that build mac
 I'm currently looking for opportunities. I love to learn and contribute towards machine learning community in any and every possible way to achieve the goals of smart machines. I'm passionate about technology, people and society.
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning techniques to apply in industrial automation, self-driving technologies.
-- 💬 Ask me about Python, R, SQL, Git, Neural Networks
+- 💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks
+- ⚡ Languages: Python3, R, SQL, Git 
 
 <!--
 **srujanreddyj/srujanreddyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,14 +28,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 ## ⚡ Technologies
 Talk to me about
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python?style=flat-square&logo=python)
-
+-->
 
 
 ## Reach me :mailbox_with_no_mail:
