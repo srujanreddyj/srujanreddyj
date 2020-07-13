@@ -15,6 +15,11 @@ I'm currently looking for opportunities. I love to learn and contribute towards 
 - 💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks
 - ⚡ Languages: Python3, R, SQL, Git 
 
+- Machine Learning Projects:
+  - -----------------------------------------------------------------------
+  - Academic Project - [Image Classification on CIFAR-10 using CNN ](https://github.com/srujanreddyj/ENGINEERING_DATA_ANALYSIS-ISEN-613---ACADEMIC_PROJECT)
+  - Academic Project - [RAM - Repelling Attracting Metropolis Algorithm](https://github.com/srujanreddyj/STAT-654-Term-Project)
+
 <!--
 **srujanreddyj/srujanreddyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
