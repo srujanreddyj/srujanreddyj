@@ -22,7 +22,7 @@ Things I'm good at 🔥
 
 - 💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks
 
-- Data Analysis: Exploratory Data Analysis, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Quantitative Methods.
+- Data Analysis: Exploratory Data Analysis, Quantitative Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Image Processing, Ensemble Methods, Data Visualization.
 
 - Machine Learning Projects:
   - Academic Project - [Image Classification on CIFAR-10 using CNN ](https://github.com/srujanreddyj/ENGINEERING_DATA_ANALYSIS-ISEN-613---ACADEMIC_PROJECT)
