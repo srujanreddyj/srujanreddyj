@@ -5,7 +5,7 @@ I'm Srujan
 Machine Learning | Industrial Engineer | Data Science | Manufacturing
 
 ## About
-Graduate at Texas A&M University Student. :man_technologist:
+Graduate at Texas A&M University. :man_technologist:
 
 I am learning all about machine learning, so I can build machines that build machines, become intelligent, and make our living abundant.
 
