@@ -15,6 +15,7 @@ Currently, I am looking for a full-time opportunities in Data Science, Machine L
 
 
 Things I'm good at 🔥
+-----------------------------------------------------------------------
 - ⚡ Languages: Python, SQL, R.
 
 - Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras.
