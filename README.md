@@ -27,8 +27,11 @@ Things I'm good at 🔥
 - Machine Learning Projects:
   - [Amenities (Object) Detection](https://srujanreddyj.github.io/learnings/2020/10/02/airbnb.html) --[Github](https://github.com/srujanreddyj/amenity-object-detection) 
   - [Walmart Sales Forecast](https://srujanreddyj.github.io/learnings/2020/09/25/M5_1.html)
+  - [Anomaly Detection in Electicity Consumption](https://srujanreddyj.github.io/learnings/2021/01/29/anomaly.html)
+  - [Netflix Dashboard](https://project-visual-1.herokuapp.com/)
   - Academic Project - [Image Classification on CIFAR-10 using CNN ](https://github.com/srujanreddyj/ENGINEERING_DATA_ANALYSIS-ISEN-613---ACADEMIC_PROJECT)
   - Academic Project - [RAM - Repelling Attracting Metropolis Algorithm](https://github.com/srujanreddyj/STAT-654-Term-Project)
+  - Academic Project - [Categorizing and Assessing Financial Risk for Health Insurance Companies](https://drive.google.com/file/d/1Bq1y1wpQmBldJrNZf1nOw4X72YXfZmuK/view)
 
 <!--
 **srujanreddyj/srujanreddyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
