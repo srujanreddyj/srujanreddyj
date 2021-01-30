@@ -25,8 +25,8 @@ Things I'm good at 🔥
 - Data Analysis: Exploratory Data Analysis, Quantitative Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Image Processing, Ensemble Methods, Data Visualization.
 
 - Machine Learning Projects:
-  - [Amenities (Object) Detection](https://github.com/srujanreddyj/amenity-object-detection)
-  - [Walmart Sales Forecast](https://srujanreddyj.github.io/portfolio/2020/09/26/M5_1.html)
+  - [Amenities (Object) Detection](https://srujanreddyj.github.io/learnings/2020/10/02/airbnb.html) --[Github](https://github.com/srujanreddyj/amenity-object-detection) 
+  - [Walmart Sales Forecast](https://srujanreddyj.github.io/learnings/2020/09/25/M5_1.html)
   - Academic Project - [Image Classification on CIFAR-10 using CNN ](https://github.com/srujanreddyj/ENGINEERING_DATA_ANALYSIS-ISEN-613---ACADEMIC_PROJECT)
   - Academic Project - [RAM - Repelling Attracting Metropolis Algorithm](https://github.com/srujanreddyj/STAT-654-Term-Project)
 
