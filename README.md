@@ -7,24 +7,28 @@ Machine Learning | Industrial Engineer | Data Science | Manufacturing
 ## About
 Graduate at Texas A&M University. :man_technologist:
 
-I am learning all about machine learning, so I can build machines that build machines, become intelligent, and make our living abundant.
+I am learning all about machine learning, data engineering, so I can build machines that build machines, become intelligent, and make our living abundant.
 
-Currently, I am looking for a full-time opportunities in Data Science, Machine Learning or related field. I love to learn and contribute towards machine learning community in any and every possible way to achieve the goals of smart machines. I'm passionate about technology, people and society.
-
-- 🌱 I’m currently learning Machine Learning and Deep Learning techniques to apply in industrial automation, self-driving technologies.
+Currently, I am looking for a full-time opportunities in Data Science and Data Engineering fields. I love to learn and contribute towards machine learning community in every possible way to achieve the goals of smart machines. I'm passionate about technology, people and society.
 
 
 Things I'm good at 🔥
 -----------------------------------------------------------------------
 - ⚡ Languages: Python, SQL, R.
 
-- Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras.
+- Libraries & Tools: NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Seaborn, OpenCV, Plotly, Dash
+- Machine Learning:  GLM Regression (Linear, Logit) Classification, Decision Tree, Random Forest, Ensemble methods, k-Means/Hierarchical Clustering, SVMs, Principal Component Analysis, Neural Network, Deep Learning, Markov Decision Process, Bayesian Learning
+- Statistical Techniques: Monte Carlo Simulation, Regression Analysis, Hypothesis Testing, A/B Testing
+- Data Management Tools: SQL Server, Oracle
+- Big-Data Technologies: Hadoop, Spark, Hive, Sqoop, Kafka
+- Skilled in Cloud, ETL, Big Data Analytics, Data Modeling and Warehousing, and Apache Spark
 
-- 💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks
+- 💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks, Data
 
 - Data Analysis: Exploratory Data Analysis, Quantitative Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Image Processing, Ensemble Methods, Data Visualization.
 
 - Machine Learning Projects:
+  - [DataPipeline for Airbnb Data] (https://github.com/srujanreddyj/Data-Engineering-concepts/blob/master/airbnb_capstone)
   - [Amenities (Object) Detection](https://srujanreddyj.github.io/learnings/2020/10/02/airbnb.html) --[Github](https://github.com/srujanreddyj/amenity-object-detection) 
   - [Walmart Sales Forecast](https://srujanreddyj.github.io/learnings/2020/09/25/M5_1.html)
   - [Anomaly Detection in Electicity Consumption](https://srujanreddyj.github.io/learnings/2021/01/29/anomaly.html)
