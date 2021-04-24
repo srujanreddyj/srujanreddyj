@@ -7,7 +7,7 @@ Machine Learning | Industrial Engineer | Data Science | Manufacturing
 ## About
 Graduate at Texas A&M University. :man_technologist:
 
-I am learning all about machine learning, data engineering, so I can build machines that build machines, become intelligent, and make our living abundant.
+I am learning all about machine learning, big data and data engineering, so I can build machines that build machines, become intelligent, and make our living abundant.
 
 Currently, I am looking for a full-time opportunities in Data Science and Data Engineering fields. I love to learn and contribute towards machine learning community in every possible way to achieve the goals of smart machines. I'm passionate about technology, people and society.
 
