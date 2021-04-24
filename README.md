@@ -63,6 +63,7 @@ Talk to me about
 -->
 
 
-### :mailbox_with_no_mail: Reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsrujanreddy@gmail.com)](mailto:jsrujanreddy@gmail.com) [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/srujan_here) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srujan-reddy/)](https://www.linkedin.com/in/srujan-reddy/)
-
+### :mailbox_with_no_mail: Reach me: 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/srujan-reddy/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/srujan_here) 
 <a href="mailto:jsrujanreddy@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
