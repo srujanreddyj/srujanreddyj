@@ -5,7 +5,7 @@ I'm Srujan, an Engineer
 Machine Learning | Industrial Engineer | Data Science | Manufacturing
 
 ## About
-Graduate at Texas A&M University. :man_technologist:
+Graduate from Texas A&M University. :man_technologist:
 
 I am learning all about machine learning, big data and data engineering, so I can build machines that build machines, become intelligent, and make our living abundant.
 
