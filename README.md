@@ -22,10 +22,12 @@ Things I'm good at 🔥
 - Data Management Tools: SQL Server, Oracle
 - Big-Data Technologies: Hadoop, Spark, Hive, Sqoop, Kafka
 - Skilled in Cloud, ETL, Big Data Analytics, Data Modeling and Warehousing, and Apache Spark
+- Skilled in Data Analysis: Exploratory Data Analysis, Quantitative Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Image Processing, Ensemble Methods, Data Visualization.
 
-- 💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks, Data
 
-- Data Analysis: Exploratory Data Analysis, Quantitative Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Image Processing, Ensemble Methods, Data Visualization.
+💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks, Data
+
+
 
 - Machine Learning Projects:
   - [DataPipeline for Airbnb Data](https://github.com/srujanreddyj/Data-Engineering-concepts/blob/master/airbnb_capstone)
