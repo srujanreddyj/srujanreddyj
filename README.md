@@ -25,8 +25,6 @@ Things I'm good at 🔥
 - Skilled in Data Analysis: Exploratory Data Analysis, Quantitative Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Image Processing, Ensemble Methods, Data Visualization.
 
 
-💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks, Data
-
 
 
 - Machine Learning Projects:
@@ -62,6 +60,7 @@ Talk to me about
 ![Python](https://img.shields.io/badge/-Python?style=flat-square&logo=python)
 -->
 
+#### 💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks, Data
 
 ### :mailbox_with_no_mail: Reach me: 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/srujan-reddy/)
