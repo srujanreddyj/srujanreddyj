@@ -28,7 +28,7 @@ Things I'm good at 🔥
 - Data Analysis: Exploratory Data Analysis, Quantitative Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Image Processing, Ensemble Methods, Data Visualization.
 
 - Machine Learning Projects:
-  - [DataPipeline for Airbnb Data] (https://github.com/srujanreddyj/Data-Engineering-concepts/blob/master/airbnb_capstone)
+  - [DataPipeline for Airbnb Data](https://github.com/srujanreddyj/Data-Engineering-concepts/blob/master/airbnb_capstone)
   - [Amenities (Object) Detection](https://srujanreddyj.github.io/learnings/2020/10/02/airbnb.html) --[Github](https://github.com/srujanreddyj/amenity-object-detection) 
   - [Walmart Sales Forecast](https://srujanreddyj.github.io/learnings/2020/09/25/M5_1.html)
   - [Anomaly Detection in Electicity Consumption](https://srujanreddyj.github.io/learnings/2021/01/29/anomaly.html)
