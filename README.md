@@ -60,6 +60,8 @@ Talk to me about
 ![Python](https://img.shields.io/badge/-Python?style=flat-square&logo=python)
 -->
 
+--------
+
 #### 💬 Ask me about: Tech, Mechanics, Industrial Engineering, Neural Networks, Data
 
 ### :mailbox_with_no_mail: Reach me: 
