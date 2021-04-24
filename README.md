@@ -20,7 +20,7 @@ Things I'm good at 🔥
 - Machine Learning:  GLM Regression (Linear, Logit) Classification, Decision Tree, Random Forest, Ensemble methods, k-Means/Hierarchical Clustering, SVMs, Principal Component Analysis, Neural Network, Deep Learning, Markov Decision Process, Bayesian Learning
 - Statistical Techniques: Monte Carlo Simulation, Regression Analysis, Hypothesis Testing, A/B Testing
 - Data Management Tools: SQL Server, Oracle
-- Big-Data Technologies: Hadoop, Spark, Hive, Sqoop, Kafka
+- Big-Data Technologies: Hadoop, Spark, Hive, Kafka
 - Skilled in Cloud, ETL, Big Data Analytics, Data Modeling and Warehousing, and Apache Spark
 - Skilled in Data Analysis: Exploratory Data Analysis, Quantitative Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Image Processing, Ensemble Methods, Data Visualization.
 
