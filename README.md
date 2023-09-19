@@ -16,7 +16,7 @@ Things I'm good at 🔥
 -----------------------------------------------------------------------
 - ⚡ Languages: Python, SQL, R.
 
-- Libraries & Tools: NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Seaborn, OpenCV, Plotly, Dash
+- Libraries & Tools: AWS< GCP, NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Seaborn, OpenCV, Plotly, Dash
 - Machine Learning:  GLM Regression (Linear, Logit) Classification, Decision Tree, Random Forest, Ensemble methods, k-Means/Hierarchical Clustering, SVMs, Principal Component Analysis, Neural Network, Deep Learning, Markov Decision Process, Bayesian Learning
 - Statistical Techniques: Monte Carlo Simulation, Regression Analysis, Hypothesis Testing, A/B Testing
 - Data Management Tools: SQL Server, Oracle
